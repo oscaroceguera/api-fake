@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "name": "Oscar Ocgeura",
+      "gender": "male",
+      "email": "juan.perez@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Nombre Apellido",
+      "gender": "male",
+      "email": "juan.perez@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Nombre Apellido",
+      "gender": "male",
+      "email": "juan.perez@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Nombre Apellido",
+      "gender": "male",
+      "email": "juan.perez@gmail.com",
+      "id": 4
+    }
+  ]
+}
